@@ -10,11 +10,11 @@ The website is also designed to be suitable for public sharing on LinkedIn or Gi
 
 ## Class Link
 
-[Add class link here.](https://johnguerra.co/classes/webDevelopment_online_summer_2026/)
+(https://johnguerra.co/classes/webDevelopment_online_summer_2026/)
 
 ## Live Website
 
-[Add GitHub Pages link here after deployment.](https://hedyhhuang.github.io/personal-homepage/)
+(https://hedyhhuang.github.io/personal-homepage/)
 
 ## Screenshot
 
