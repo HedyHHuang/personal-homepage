@@ -1,0 +1,19 @@
+{
+  "name": "personal-homepage",
+  "version": "1.0.0",
+  "description": "A personal homepage portfolio built with vanilla HTML5, CSS3, and ES6 modules.",
+  "type": "module",
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint js"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "globals": "^15.0.0",
+    "prettier": "^3.0.0"
+  },
+  "license": "MIT"
+}
