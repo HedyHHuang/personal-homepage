@@ -10,17 +10,13 @@ The website is also designed to be suitable for public sharing on LinkedIn or Gi
 
 ## Class Link
 
-Add class link here.
+[Add class link here.](https://johnguerra.co/classes/webDevelopment_online_summer_2026/)
 
 ## Live Website
 
-Add GitHub Pages link here after deployment.
+[Add GitHub Pages link here after deployment.](https://hedyhhuang.github.io/personal-homepage/)
 
 ## Screenshot
-
-Add screenshot here after the website is finished.
-
-Example:
 
 ![Homepage screenshot](./images/homepage-screenshot.png)
 
