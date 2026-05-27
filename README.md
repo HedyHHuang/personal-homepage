@@ -4,7 +4,7 @@
 
 ## Project Objective
 
-This project is require to create a personal home page. My goal is to create a clean and professional portfolio website that can introduces my experience, skills, selected projects.
+This project is require to create a personal home page. My goal is to create a clean and professional portfolio website that can introduce my experience, skills, selected projects.
 
 The website is also designed to be suitable for public sharing on LinkedIn or GitHub Pages.
 
